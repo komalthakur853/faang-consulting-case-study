@@ -72,7 +72,7 @@ If the story lacks production evidence or any real numbers, say so and either ki
 State the rule you will apply:
 
 - “Company is public → real name will be used.”
-- “Company is private → full anonymization applied. Descriptor: [exact descriptor].”
+- “Company is private → full anonymization applied.”
 
 ### 3. Draft
 Write the full case study using the exact six-section template.  
