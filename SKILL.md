@@ -3,7 +3,7 @@ name: faang-consulting-case-study
 description: Produces elite, publication-ready customer case studies in the style of Google, McKinsey, BCG and FAANG engineering blogs. Follows the fixed structure About Client, Top 3 Achievements, Technical Problems, Solutions, Business Solution, Testimonial. Automatically anonymizes private companies and uses real names only for public ones. Use when the user asks for a case study, customer success story, reference story, technical win story, or any content that must look like a top-tier consulting or FAANG case study.
 license: MIT
 metadata:
-  author: YourName
+  author: Komal Jaiswal
   version: "1.0.0"
   style: google-mckinsey-bcg-faang
 ---
